@@ -1,6 +1,5 @@
-var a = 5,
-    b = 2,
-    c = 3,
-    d = 'hello',
-    e = 'goodbye';
-    
+'Hello, everybody!'
+
+var specialguest = "neil degrasse tyson"
+
+"hello, " + specialguest + "!"
